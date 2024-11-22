@@ -1,1 +1,1 @@
-# WIFIProject1
+# 一个基于java的WIFI密码破解工具（基于字典破解）
